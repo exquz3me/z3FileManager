@@ -1,0 +1,23 @@
+{
+  "name": "z3filemanager",
+  "version": "6.6.6",
+  "description": "Handler based file manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exquz3me/z3FileManager.git"
+  },
+  "keywords": [
+    "file-manager",
+    "discord"
+  ],
+  "author": "exquz3me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exquz3me/z3FileManager/issues"
+  },
+  "homepage": "https://github.com/exquz3me/z3FileManager#readme"
+}
